@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 2b48e349af95e844da5a75d304e381e2
+timeCreated: 1427685041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprMan_0
+    21300002: sprMan_1
+    21300004: sprMan_2
+    21300006: sprMan_3
+    21300008: sprMan_4
+    21300010: sprMan_5
+    21300012: sprMan_6
+    21300014: sprMan_7
+    21300016: sprMan_8
+    21300018: sprMan_9
+    21300020: sprMan_10
+    21300022: sprMan_11
+    21300024: sprMan_12
+    21300026: sprMan_13
+    21300028: sprMan_14
+    21300030: sprMan_15
+    21300032: sprMan_16
+    21300034: sprMan_17
+    21300036: sprMan_18
+    21300038: sprMan_19
+    21300040: sprMan_20
+    21300042: sprMan_21
+    21300044: sprMan_22
+    21300046: sprMan_23
+    21300048: sprMan_24
+    21300050: sprMan_25
+    21300052: sprMan_26
+    21300054: sprMan_27
+    21300056: sprMan_28
+    21300058: sprMan_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprMan_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 595
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 592
+        width: 79
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 593
+        width: 71
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 594
+        width: 67
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 594
+        width: 62
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 597
+        width: 69
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 447
+        width: 76
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 451
+        width: 85
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 455
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 460
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 459
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 455
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 300
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 299
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 299
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 300
+        width: 77
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 152
+        width: 70
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 153
+        width: 71
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 153
+        width: 75
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 155
+        width: 81
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 158
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 14
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 117
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 7
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprMan_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
